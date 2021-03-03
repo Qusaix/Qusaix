@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Qusaix
+- 👋 Hi, I’m Qusai
 - 🖥 I'm a Full Stack Developer
 - 📫 How to reach me: qusaiznemat6@gmail.com
